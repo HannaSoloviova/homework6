@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,500,600,800&display=swap');
+body {
+	margin: 0;
+	background-color: #141b23;
+	font-family: "Libre Franklin", sans-serif;
+}
+.container {
+	min-height: 100vh;
+	padding-left: 55px;
+	padding-top: 65px;
+	padding-bottom: 50px;
+	background-image: url(../images/project_image_night_road.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.navigation-list {
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	font-weight: 500;
+	opacity: 0.87;
+}
+.navigation-list-item {
+	display: inline;
+	margin-right: 5px;
+}
+.navigation-list-logo {
+	margin-right: 10px;
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.navigation-list-link {
+	text-decoration: none;
+	list-style: none;
+	color: #b1bbcb;
+}
+.content-body {
+	padding-top: 99px;
+	padding-left: 40px;
+	padding-bottom: 198px;
+}
+.main-content {
+	max-width: 467px;
+	overflow: hidden;
+	color: #ffffff;
+	font-size: 13px;
+	line-height: 15.6px;
+}
+.headline {
+	margin: 0;
+	box-sizing: border-box;
+	font-size: 25px;
+	font-weight: 500;
+}
+.first-paragraph {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.second-paragraph {
+	margin: 0;
+}
+.third-paragraph {
+	margin: 0;
+}
+.footer {
+	color: #989ea5;
+	font-size: 12px;
+	opacity: 0.27;
+}
